@@ -1,2 +1,6 @@
 # ToBigs
-Data Analysis Assignments&amp;Lectures 
+Big Data Analysis Study
+Lectures & Assignments  
+
+Statistics, Machine Learning, Deep Learning and so on
+Problem Solving and Algorithms
