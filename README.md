@@ -2,10 +2,10 @@
 
 ---
 
-## -Big Data Analysis Study
+## - Big Data Analysis Study
 
-## -Lectures & Assignments  
+## - Lectures & Assignments  
 
-## -Statistics, Machine Learning, Deep Learning and so on
+## - Statistics, Machine Learning, Deep Learning and so on
 
-## -Problem Solving and Algorithms
+## - Problem Solving and Algorithms
