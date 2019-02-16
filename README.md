@@ -2,7 +2,7 @@
 
 ---
 
-### * Big Data Analysis Study
+* ### Big Data Analysis Study
 
 ### * Lectures & Assignments  
 
